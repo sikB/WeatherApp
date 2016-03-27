@@ -51,4 +51,5 @@ $(document).ready(function(){
 });
 
 
+
 	// (currTemp/100)*Math.PI
